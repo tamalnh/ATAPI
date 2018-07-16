@@ -2,9 +2,9 @@
   "name": "practise",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon"
   },
   "keywords": [],
   "author": "",
